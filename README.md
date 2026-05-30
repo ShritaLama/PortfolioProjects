@@ -1,61 +1,61 @@
-# COVID-19 Data Analysis Using SQL
+# COVID-19 Data Analysis & Visualization
 
 ## Project Overview
 
-This project analyzes COVID-19 data using SQL Server. The goal of the project is to explore and understand trends in COVID-19 cases, deaths, and vaccinations through SQL queries and data analysis techniques.
+This project analyzes global COVID-19 data using SQL Server and Tableau. The objective was to explore trends in cases, deaths, and vaccinations, then create interactive visualizations to communicate key insights.
 
 ## Tools Used
 
-* SQL Server Management Studio (SSMS)
 * SQL Server
-* Excel Dataset
+* SQL Server Management Studio (SSMS)
+* Tableau
+* Microsoft Excel
 
-## Dataset
+## Project Workflow
 
-The dataset contains COVID-19 information such as:
+1. Imported and explored COVID-19 datasets using SQL Server.
+2. Performed data cleaning and analysis using SQL queries.
+3. Created views and calculations for reporting.
+4. Connected the processed data to Tableau.
+5. Built interactive dashboards to visualize trends and insights.
 
-* Total cases
-* Total deaths
-* New cases
-* New deaths
-* Vaccination data
-* Country and date information
+## SQL Skills Demonstrated
 
-## SQL Concepts Used
-
-The following SQL concepts were used in this project:
-
-* SELECT statements
-* WHERE clause
+* SELECT Statements
+* WHERE Clauses
 * ORDER BY
 * GROUP BY
-* Aggregate functions
-* JOINs
+* Aggregate Functions
+* Joins
 * Common Table Expressions (CTEs)
 * Views
 
-## Analysis Performed
+## Tableau Dashboard Highlights
 
-Some of the analysis completed in this project includes:
+* Global COVID-19 cases overview
+* Death rate analysis
+* Country-wise comparisons
+* Trend analysis over time
+* Interactive filtering and visualization
 
-* Total COVID cases by country
-* Death percentage calculations
-* Countries with highest infection rates
-* Countries with highest death counts
-* Global COVID statistics
-* Vaccination progress analysis
 
-## Sample Queries
+## Project Structure
 
-Examples of queries used:
+COVID-19-Analysis/
 
-* Finding total cases and deaths
-* Calculating infection percentage
-* Comparing vaccination rates between countries
+* SQL Queries/
+* Tableau Dashboard/
+* Screenshots/
+* README.md
 
-## Conclusion
 
-This project helped improve SQL skills by working with real-world COVID-19 data. It demonstrates data cleaning, querying, aggregation, and analytical problem-solving using SQL Server.
+## Skills Gained
+
+* SQL
+* Microsoft SQL Server
+* Tableau
+* Data Analysis
+* Data Visualization
 
 ## Author
 
